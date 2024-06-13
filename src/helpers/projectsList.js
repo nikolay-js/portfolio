@@ -6,6 +6,8 @@ import project03 from "./../img/projects/03.jpg";
 
 import project04 from "./../img/projects/04.jpg";
 
+import project05 from "./../img/projects/05.jpg";
+
 const projects = [
 	{
 		title: 'Social network',
@@ -30,6 +32,12 @@ const projects = [
 		img: project04,
 		skills: 'HTML, CSS, JS, Vue JS, Vue Router, Vuex, Axios, Node.js',
 		gitHubLink: 'https://github.com/nikolay-js/companies-info',
+	},
+	{
+		title: 'Todos',
+		img: project05,
+		skills: 'TypeScript, React, React Hooks, HTML, CSS, Jest, Enzyme, Testing-library',
+		gitHubLink: 'https://github.com/nikolay-js/todos',
 	},
 ];
 
