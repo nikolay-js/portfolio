@@ -8,6 +8,8 @@ import project04 from "./../img/projects/04.jpg";
 
 import project05 from "./../img/projects/05.jpg";
 
+import project06 from "./../img/projects/06.jpg";
+
 const projects = [
 	{
 		title: 'Social network',
@@ -38,6 +40,12 @@ const projects = [
 		img: project05,
 		skills: 'TypeScript, React, React Hooks, HTML, CSS, Jest, Enzyme, Testing-library',
 		gitHubLink: 'https://github.com/nikolay-js/todos',
+	},
+	{
+		title: 'Goods4you',
+		img: project06,
+		skills: 'TypeScript, React, React Hooks, React Router, Redux-Toolkit, Redux Slice, createAsyncThunk, RTK Query, HTML, CSS, BEM, own UI-kit, Storybook, SEO, a11y, JWT',
+		gitHubLink: 'https://github.com/nikolay-js/goods4you',
 	},
 ];
 
