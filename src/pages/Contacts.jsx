@@ -12,7 +12,7 @@ const Contacts = () => {
           <li className="content-list__item">
             <h2 className="title-2">Telegram / WhatsApp</h2>
             <p>
-              <a href="tel:+79163510160">@nikolay_smhn / +7 (916) 351-01-60</a>
+              <a href="https://t.me/nikolay_smhn" target="_blank" rel="noopener noreferrer">@nikolay_smhn</a> / <a href="tel:+79163510160">+7 (916) 351-01-60</a>
             </p>
           </li>
           <li className="content-list__item">

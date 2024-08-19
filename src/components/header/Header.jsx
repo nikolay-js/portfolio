@@ -24,7 +24,7 @@ const Header = () => {
             </ul>
           </div>
         </div>
-        <a href="https://github.com/nikolay-js" target="_blank" rel="noreferrer" className="btn">
+        <a href="https://github.com/nikolay-js" target="_blank" rel="noopener noreferrer" className="btn">
           <img src={gitHubIcon} alt="GitHubIcon" />
           View GitHub
 				</a>
